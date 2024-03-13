@@ -1,0 +1,8 @@
+{
+    "CreateAPIKey": 1,
+    "AppSyncApiName": "writewithme",
+    "DynamoDBBillingMode": "PAY_PER_REQUEST",
+    "APIKeyExpirationEpoch": "-1",
+    "S3DeploymentBucket": "amplify-writewithme-dev-7df11-deployment",
+    "S3DeploymentRootKey": "amplify-appsync-files/b0d3be93484f810a0d7edf613207a17e65c9d467"
+}
